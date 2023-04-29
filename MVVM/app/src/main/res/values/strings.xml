@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">APP Pokemon</string>
+    <!-- mis -->
+    <string name="pokemon_image">Imagen Pokemon</string>
+    <string name="type">Tipo:</string>
+    <string name="hp">Hp:</string>
+    <string name="speed">Rapidez:</string>
+    <string name="attack">Ataque:</string>
+    <string name="defense">Defensa:</string>
+    <string name="special_attack">Ataque Especial:</string>
+    <string name="special_defense">Defensa Especial:</string>
+    <string name="height">Altura:</string>
+    <string name="weight">Peso:</string>
+    <string name="metro"> %sm</string>
+    <string name="kilo"> %skg</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
